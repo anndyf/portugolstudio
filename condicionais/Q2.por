@@ -1,5 +1,5 @@
 programa {
-  inclua biblioteca Texto --> tx
+  inclua biblioteca Texto --> tx // declaração de biblioteca para deixar as letras em caixa alta.
   funcao inicio() {
     /*2- Crie um algoritmo que leia uma senha fornecida pelo usuário composta por caracteres 
     para informar se a senha é válida ou inválida. A senha do sistema corresponde a palavra “PORTUGOL”. Obs.: O algo-
